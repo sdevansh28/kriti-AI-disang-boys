@@ -1,2 +1,2 @@
 # Automated Research Paper Categorization
-## Kriti IITG.ai PS
+## Kriti '24 IITG.ai PS
