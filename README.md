@@ -1,1 +1,2 @@
-# kriti-grav-disang-boys
+# Automated Research Paper Categorization
+## Kriti IITG.ai PS
